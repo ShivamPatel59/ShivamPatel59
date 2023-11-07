@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
 <h3 align="center">Full Stack developer</h3>
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 
-I am a final year student at Indian Institute of Information Technology, Surat. I have a deep interest in programming 👨🏻‍💻 and full-stack web development. I am passionate about learning new things and continuously improving my skills. I believe in teamwork and I am always ready to take on new challenges⚡
-
+I am a final year student at Indian Institute of Information Technology, Surat. I have a deep interest in programming 👨🏻‍💻 and full-stack web development. I am passionate about learning new things and continuously improving my skills. I believe in teamwork and I am always ready to take on new challenges
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivampatel59" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivampatel59" height="30" width="40" /></a>
